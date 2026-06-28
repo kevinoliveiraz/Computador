@@ -14,7 +14,7 @@ Esta nota apresenta os principais formatos de placa-mãe (form factors), explica
 - Exemplos práticos de utilização
 - Relação entre tamanho da placa e capacidade de expansão
 
-
+---
 
 # Tipos de Placa-Mãe
 
@@ -127,13 +127,4 @@ E-ATX
 - PC doméstico → Micro-ATX;
 - PC Gamer → ATX;
 - Servidor → E-ATX.
-
----
-
-# Resumo
-
-O tipo de placa-mãe define o tamanho do computador e a quantidade de componentes que podem ser instalados.
-
-Quanto maior a placa, maior costuma ser a capacidade de expansão, permitindo adicionar mais memória, placas de vídeo, placas de rede e outros dispositivos.
-<img width="1536" height="1024" alt="50868" src="https://github.com/user-attachments/assets/e01eadcd-1afa-48fe-8ecd-d480b6c24218" />
 
