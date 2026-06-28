@@ -1,3 +1,20 @@
+
+# Resumo
+
+Esta nota apresenta os conceitos fundamentais sobre clonagem de discos, explicando como copiar integralmente um HD ou SSD para outro dispositivo de armazenamento. São abordados os cenários de uso, os tipos de clonagem, ferramentas disponíveis para Windows e Linux, procedimentos básicos, comandos utilizados no terminal e os principais cuidados para evitar perda de dados.
+
+## Tópicos abordados
+
+- O que é clonagem de disco
+- Situações em que a clonagem é recomendada
+- Tipos de clonagem (HD ↔ HD, HD ↔ SSD, SSD ↔ SSD e SSD ↔ HD)
+- Ferramentas de clonagem para Windows
+- Tutorial básico com Macrium Reflect
+- Ferramentas de clonagem para Linux
+- Tutorial básico com Clonezilla
+- Clonagem via terminal utilizando `dd`
+- Identificação de discos com `lsblk` e `fdisk`
+- Cuidados antes de iniciar a clonagem
 # Clonagem de Disco (HD ↔ SSD)
 
 A clonagem copia todo o conteúdo de um disco para outro, incluindo:
