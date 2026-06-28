@@ -1,3 +1,26 @@
+# Resumo 
+
+Esta nota apresenta  os principais componentes que formam um computador, suas funções e como trabalham em conjunto.
+
+## Conteúdo a
+
+- Estrutura física do computador (gabinete)
+- Funcionamento da placa-mãe
+- Papel do processador (CPU)
+- Memória RAM e seu funcionamento
+- Armazenamento em HDD e SSD
+- Placa de vídeo (GPU)
+- Fonte de alimentação (PSU)
+- Placas de expansão (Wi-Fi e som)
+- Portas de conexão do computador
+- Periféricos de entrada (teclado e mouse)
+- Periféricos de saída (monitor e caixas de som)
+- Dispositivos USB (pendrive)
+- Identificação dos componentes presentes no seu computador
+
+  <img width="736" height="1104" alt="20260329_224833" src="https://github.com/user-attachments/assets/8d77b5b7-bb84-435a-bacf-e89e3855c0f0" />
+
+
 # Componentes de um Computador
 
 ## COMPUTER CASE (Gabinete)
