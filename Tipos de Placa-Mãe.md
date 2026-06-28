@@ -1,3 +1,21 @@
+
+# Resumo
+
+Esta nota apresenta os principais formatos de placa-mãe (form factors), explicando suas características, diferenças de tamanho, capacidade de expansão e aplicações mais comuns. Também compara os modelos utilizados em computadores domésticos, gamers, mini PCs, notebooks e servidores.
+
+## Tópicos abordados
+
+- O que é uma placa-mãe
+- Formato ATX
+- Formato Micro-ATX (mATX)
+- Formato Mini-ITX
+- Formato E-ATX (Extended ATX)
+- Comparação entre os principais form factors
+- Exemplos práticos de utilização
+- Relação entre tamanho da placa e capacidade de expansão
+
+
+
 # Tipos de Placa-Mãe
 
 A placa-mãe é a peça responsável por conectar todos os componentes do computador.
