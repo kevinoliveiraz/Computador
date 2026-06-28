@@ -273,7 +273,5 @@ Sistema Principal
 Máquina Virtual
 ↓
 Sistema Convidado
-```
 
-Compartilha recursos.
 
