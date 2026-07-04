@@ -22,7 +22,6 @@ Esta nota apresenta os principais tipos de portas e conectores encontrados em co
 - FireWire (IEEE 1394)
 - Portas utilizadas no computador de referência
 
-<img width="1080" height="1324" alt="20260329_224127" src="https://github.com/user-attachments/assets/29ce71fd-f5a5-431a-a8d4-8c9c935e88c4" />
 
 
 **HDMI** — High Definition Multimedia Interface. Transmite vídeo e áudio juntos num cabo só. É a porta mais usada hoje — monitor, TV, projetor. Você usa no seu setup todo dia.
