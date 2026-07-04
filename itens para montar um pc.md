@@ -195,22 +195,3 @@ Responsável pelo processamento de áudio.
 
 Pode ser uma placa dedicada ou integrada à placa-mãe.
 
-**No seu computador:** utiliza o áudio onboard da ASRock A320M-HDV R4.0, suficiente para o uso atual.
-
----
-
-# Resumo do seu hardware
-
-| Componente | Modelo |
-|------------|--------|
-| **Gabinete** | AeroCool Mid Tower |
-| **Placa-mãe** | ASRock A320M-HDV R4.0 |
-| **Processador** | AMD Ryzen 3 3200G |
-| **Memória RAM** | 16 GB DDR4 3200 MHz |
-| **SSD** | 480 GB SATA |
-| **Placa de Vídeo** | NVIDIA GTX 1050 Ti 4 GB |
-| **Fonte** | Tronos 500 W ⚠️ |
-| **Monitor** | Dell P2018Hc |
-| **Teclado** | Fortrek Ranger Rainbow |
-| **Mouse** | Fortrek Ranger RGB |
-| **Áudio** | Fortrek Black Hawk Soundbar |
