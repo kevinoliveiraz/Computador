@@ -86,3 +86,17 @@ O desempenho depende de vários fatores, como:
 - Programa que está sendo executado
 
 Os bits influenciam principalmente a capacidade de processamento e o limite de memória que o processador consegue acessar.
+
+## Curiosidade: o PlayStation 2 era mesmo 128 bits?
+
+Na época do PS2, era comum os videogames serem divulgados pela quantidade de bits do processador.
+
+A Sony anunciava o PlayStation 2 como um console de 128 bits por causa do Emotion Engine, que possuía unidades capazes de realizar operações de 128 bits, principalmente para cálculos gráficos.
+
+Isso não significa que toda a arquitetura do console era 128 bits como entendemos hoje.
+
+Já o PS4 e o PS5 usam processadores de 64 bits, mas muito mais modernos e eficientes. Eles possuem vários núcleos, muito mais memória, cache maior e uma GPU muito mais poderosa.
+
+Por isso, um processador de 64 bits atual é muito mais rápido e capaz do que o "128 bits" divulgado no PlayStation 2.
+
+O número de bits, sozinho, não define o desempenho de um computador ou videogame.
